@@ -14,4 +14,3 @@ CMD ["sqlplus", "-v"]
 
 
 
-sqlplus 'system/oracle@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=192.168.0.50)(Port=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)))'
